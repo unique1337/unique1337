@@ -1,8 +1,12 @@
 # unique
 
-![image](https://github.com/unique1337/unique1337/blob/main/Mob.gif)
+![image](https://github.com/unique1337/unique1337/blob/main/Picture/unique.gif) 
+
+[Discord](https://discord.gg/user/725097547378458634) • [Discord Server](https://discord.gg/pquuQRBHZK) • [Steam](https://steamcommunity.com/id/unique1337b/) • [Twitch](https://www.twitch.tv/uniquex1337)
 
 ## Discord
+
+![image](https://github.com/unique1337/unique1337/blob/main/Picture/uniquez.gif)
 
 Discord ID: unique#1337
 
@@ -14,8 +18,12 @@ _[Disboard](https://disboard.org/de/server/841066682969751572)_
 
 ## My Discord Bot's
 
+![image](https://github.com/unique1337/unique1337/blob/main/Picture/Tokage%20Bots.gif)
+
 Tokage Music Bot: [Click Here to invite](https://discord.com/api/oauth2/authorize?client_id=878044407998341141&permissions=8&scope=bot)
 
 Tokage Bot: [Click Here to invite](https://discord.com/api/oauth2/authorize?client_id=878044407998341141&permissions=8&scope=bot)
 
+## Social Media
 
+[Discord](https://discord.gg/user/725097547378458634) • [Discord Server](https://discord.gg/pquuQRBHZK) • [Steam](https://steamcommunity.com/id/unique1337b/) • [Twitch](https://www.twitch.tv/uniquex1337)
