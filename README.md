@@ -1,1 +1,1 @@
-https://i.imgur.com/BivSCgD.gif
+[Imgur](https://imgur.com/BivSCgD)
