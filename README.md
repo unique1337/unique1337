@@ -2,7 +2,7 @@
 
 ![image](https://github.com/unique1337/unique1337/blob/main/Picture/unique.gif) 
 
-[Discord](https://discord.gg/user/725097547378458634) • [Discord Server](https://discord.gg/pquuQRBHZK) • [Steam](https://steamcommunity.com/id/unique1337b/) • [Twitch](https://www.twitch.tv/uniquex1337)
+[Discord](https://discord.gg/users/725097547378458634) • [Discord Server](https://discord.gg/pquuQRBHZK) • [Steam](https://steamcommunity.com/id/unique1337b/) • [Twitch](https://www.twitch.tv/uniquex1337)
 
 ## Discord
 
@@ -26,4 +26,4 @@ Tokage Bot: [Click Here to invite](https://discord.com/api/oauth2/authorize?clie
 
 ## Social Media
 
-[Discord](https://discord.gg/user/725097547378458634) • [Discord Server](https://discord.gg/pquuQRBHZK) • [Steam](https://steamcommunity.com/id/unique1337b/) • [Twitch](https://www.twitch.tv/uniquex1337)
+[Discord](https://discord.gg/users/725097547378458634) • [Discord Server](https://discord.gg/pquuQRBHZK) • [Steam](https://steamcommunity.com/id/unique1337b/) • [Twitch](https://www.twitch.tv/uniquex1337)
