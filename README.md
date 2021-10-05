@@ -22,7 +22,7 @@ _[Disboard](https://disboard.org/de/server/841066682969751572)_
 
 Tokage Music Bot: [Click Here to invite](https://discord.com/api/oauth2/authorize?client_id=878044407998341141&permissions=8&scope=bot)
 
-Tokage Bot: [Click Here to invite](https://discord.com/api/oauth2/authorize?client_id=878044407998341141&permissions=8&scope=bot)
+Tokage Bot: [Click Here to invite](https://discord.com/api/oauth2/authorize?client_id=878770198566535219&permissions=8&scope=bot)
 
 ## Social Media
 
