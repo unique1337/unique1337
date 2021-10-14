@@ -1,4 +1,8 @@
-# unique <a href="https://discord.com/users/725097547378458634">
+# unique 
+
+![image](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+
+<a href="https://discord.com/users/725097547378458634">
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/725097547378458634.png" />
 </a> 
 
