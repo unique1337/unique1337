@@ -1,29 +1,24 @@
-# unique
+# unique <a href="https://discord.com/users/725097547378458634">
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/725097547378458634.png" />
+</a> 
 
-![image](https://github.com/unique1337/unique1337/blob/main/Picture/Mob1.gif) 
+My Discord bots
 
-[Discord](https://discord.gg/users/725097547378458634) • [Discord Server](https://discord.gg/pquuQRBHZK) • [Steam](https://steamcommunity.com/id/unique1337b/) • [Twitch](https://www.twitch.tv/uniquex1337)
+[Tokage Bot](https://discord.com/api/oauth2/authorize?client_id=878044407998341141&permissions=8&scope=bot)
 
-## Discord
+[Music Bot](https://discord.com/api/oauth2/authorize?client_id=878044407998341141&permissions=8&scope=bot)
 
-![image](https://github.com/unique1337/unique1337/blob/main/Picture/Mob2.gif)
+<a href="https://discord.gg/pquuQRBHZK">
+  <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/unique1337T">
+  <img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://open.spotify.com/user/ur7i2dk7ix2hhg2bbrl6heg84">
+  <img align="left" alt="Spotify" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
-Discord ID: unique#1337
+![Profile Visits](https://komarev.com/ghpvc/?username=unique1337&color=yellow&label=Profile-Visits&width=26px)
 
-Tokage Discord Server: [Click Here to Join](https://discord.gg/pquuQRBHZK)
-
-_[Top.gg](https://top.gg/de/servers/841066682969751572)_
-
-_[Disboard](https://disboard.org/de/server/841066682969751572)_
-
-## My Discord Bot's
-
-![image](https://github.com/unique1337/unique1337/blob/main/Picture/Mob3.gif)
-
-Tokage Music Bot: [Click Here to invite](https://discord.com/api/oauth2/authorize?client_id=878044407998341141&permissions=8&scope=bot)
-
-Tokage Bot: [Click Here to invite](https://discord.com/api/oauth2/authorize?client_id=878770198566535219&permissions=8&scope=bot)
-
-## Social Media
-
+## Contact me
 [Discord](https://discord.gg/users/725097547378458634) • [Discord Server](https://discord.gg/pquuQRBHZK) • [Steam](https://steamcommunity.com/id/unique1337b/) • [Twitch](https://www.twitch.tv/uniquex1337)
