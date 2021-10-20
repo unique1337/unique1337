@@ -1,6 +1,6 @@
 # unique 
 
-![image](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+![image](https://steamuserimages-a.akamaihd.net/ugc/840330487442576149/D3E549D06EE652F329C94E6877B482E2CBDCF655/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 <a href="https://discord.com/users/725097547378458634">
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/725097547378458634.png" />
