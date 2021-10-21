@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+<img src="https://25.media.tumblr.com/tumblr_mdgokqqjbP1rcbrvio1_400.gif">
 </p>
 <p align="center">
     𝒖𝒏𝒊𝒒𝒖𝒆
