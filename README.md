@@ -22,7 +22,7 @@ My Discord bots
   <img align="left" alt="Spotify" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![Profile Visits](https://komarev.com/ghpvc/?username=unique1337&color=yellow&label=Profile-Visits&width=26px)
+![Profile Visit](https://komarev.com/ghpvc/?username=unique1337&color=yellow&label=Profile-Visits&width=26px)
 
 ## Contact me
 [Discord](https://discord.gg/users/725097547378458634) • [Discord Server](https://discord.gg/83VRNNXptY) • [Steam](https://steamcommunity.com/id/unique1337b/) • [Twitch](https://www.twitch.tv/uniquex1337)
