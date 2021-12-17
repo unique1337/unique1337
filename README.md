@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=unique1337&color=yellow&label=Profile-Visits&width=26px">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/725097547378458634.png"/>
+  <img src="https://discord.c99.nl/widget/theme-4/234619431127482368.png"/>
 </p>
 <p align="center">
 <p align="center">
