@@ -11,4 +11,4 @@
 </p>
 <p align="center">
 <p align="center">
-    <a href="https://discord.gg/pquuQRBHZK">Discord Server</a>
+    <a href="https://discord.gg/pquuQRBHZ">Discord Server</a>
